@@ -1,14 +1,19 @@
-### Hi there 👋
-<h1 align="center"><b>Github Profile </b>
+<h2 "align=center">Hi, I'm Akarata welcome to my github profile 👋</h2>
 
-<img src="https://telegra.ph/file/2f5ab3ce4a6844b91befd.jpg">
 
 ### Build with ♥
+
+<h3 align="center"><b>My Music Activity :</b></h3><br>
+<p align="center">
+  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=tgymctc9gtq4k8oyows4cw5hu&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
+  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=tgymctc9gtq4k8oyows4cw5hu&width=400" alt="Spotify-Recent" /></a>
+  <a href="https://www.last.fm/user/Akarata" > <img src="https://lastfm-recently-played.vercel.app/api?user=Akarata" alt="Last.FM" /></a>
+</p>
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="495px">
 </a>
 <br>
-<br><p align="center"><a href="https://github.com/X-Newbie"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAkarata&longCache=true"></a></p>
+<br><p align="center"><a href="https://github.com/Akarata"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAkarata&longCache=true"></a></p>
 <p align="center"><a href="https://github.com/Akarata"><img src="https://github-readme-stats.vercel.app/api?username=Akarata&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Akarata"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarata&theme=radical&layout=compact"></a></p>
 
