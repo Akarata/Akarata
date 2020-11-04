@@ -6,8 +6,8 @@
 
 <h3 align="center"><b>My Music Activity :</b></h3><br>
 <p align="center">
-  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=tgymctc9gtq4k8oyows4cw5hu&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
-  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=tgymctc9gtq4k8oyows4cw5hu&width=400" alt="Spotify-Recent" /></a>
+  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cp7hzra2mdsswfwdt3v3xst6re&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
+  <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cp7hzra2mdsswfwdt3v3xst6re&width=400" alt="Spotify-Recent" /></a>
   <a href="https://www.last.fm/user/Akarata" > <img src="https://lastfm-recently-played.vercel.app/api?user=Akarata" alt="Last.FM" /></a>
 </p>
 
