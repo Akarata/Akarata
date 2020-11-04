@@ -1,5 +1,6 @@
 <h2 "align=center">Hi, I'm Akarata welcome to my github profile 👋</h2>
 
+<img src="https://telegra.ph/file/2f5ab3ce4a6844b91befd.jpg">
 
 ### Build with ♥
 
