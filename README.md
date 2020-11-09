@@ -2,12 +2,8 @@
 
 <img src="https://telegra.ph/file/2f5ab3ce4a6844b91befd.jpg">
 
-<h3 align="center"><b>Built with ♥ </b></h3><br>
-
-
-
-
-<h3 align="center"><b>My Music Activity :</b></h3><br>
+<h3 align="left"><b>Built with ♥ </b></h3><br>
+<h3 align="left"><b>My Music Activity :</b></h3><br>
 <p align="center">
   <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cp7hzra2mdsswfwdt3v3xst6re&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
   <a href="https://open.spotify.com/user/31cp7hzra2mdsswfwdt3v3xst6re?si=_FwOYKYoTKW7VweXV3a4bQ" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cp7hzra2mdsswfwdt3v3xst6re&width=400" alt="Spotify-Recent" /></a>
