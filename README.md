@@ -18,7 +18,7 @@
 <p align="center"><a href="https://github.com/Akarata"><img src="https://github-readme-stats.vercel.app/api?username=Akarata&show_icons=true&theme=radical"></a></p>
 
 
-<p align="center"><a href="https://github.com/Akarata"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarata&theme=highcontrast&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Akarata"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarata&theme=radical&layout=compact"></a></p>
 
 
 
