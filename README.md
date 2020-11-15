@@ -49,7 +49,7 @@ Akarata = {
     'pronouns': 'he' or 'him' or 'his',
     'fullname': 'Prastiko Sasmitho',
     'nationality': ['Indonesia', 'ID'],
-    'location': 'ID',
+    'location': 'Jakarta,ID',
     'contact': {
         'email': 'Prastiko46@gmail.com',
         'website': 'https://gmail.com',
