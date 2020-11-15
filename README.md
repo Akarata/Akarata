@@ -61,7 +61,7 @@ Akarata = {
         'I\'m considering myself as a runner. (even tho rarely do it) xd',
         'Love gaming',
         'Human.',
-        'If i'm born again i just want to be myself'
+        'If i\'m born again i just want to be myself'
     ],
     }
 ```
