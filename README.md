@@ -11,9 +11,9 @@
 </p>
 <h3 align="center"><b>My github stats :</b></h3><br>
 
-[![Akarata's github stats](https://github-readme-stats.vercel.app/api?username=Akarata&show_icons=true&theme=cobalt&count_private=true)](https://github.com/Akarata)
+[![Akarata's github stats](https://github-readme-stats.vercel.app/api?username=Akarata&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Akarata)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarata&layout=compact&theme=cobalt)](https://github.com/Akarata)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarata&count_private=true&layout=compact&theme=vue-dark)](https://github.com/Akarata)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akarata)
