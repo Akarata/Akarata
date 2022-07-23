@@ -1,4 +1,4 @@
-<h2 "align=center">Hi, I'm Akarata welcome to my github profile 👋</h2>
+<h2 "align=center">Hi, I'm Prastiko welcome to my github profile 👋</h2>
 
 <img src="https://telegra.ph/file/feedfae4550df60ba2380.jpg">
 
