@@ -1,6 +1,6 @@
 <h2 "align=center">Hi, I'm Akarata welcome to my github profile 👋</h2>
 
-<img src="https://telegra.ph/file/2f5ab3ce4a6844b91befd.jpg">
+<img src="https://telegra.ph/file/feedfae4550df60ba2380.jpg">
 
 <h3 align="center"><b>Built with ♥ </b></h3><br>
 <h3 align="center"><b>My Music Activity :</b></h3><br>
@@ -54,11 +54,10 @@ Akarata = {
         'website': 'https://gmail.com',
     },
     'about': [
-        '17 y.o' ,
-        'A student',
+        '18 y.o' ,
         'A fan of python',
         'I\'m considering myself as a runner. (even tho rarely do it) xd',
-        'Love gaming',
+        'Love editing & design',
         'Human.',
         'If i\'m born again i just want to be myself'
     ],
